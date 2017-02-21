@@ -19,3 +19,6 @@ nuget:
   project_feed: true
 build:
   verbosity: minimal
+artifacts:
+- path: release/nuget/*.nupkg
+  name: nugetpacks
