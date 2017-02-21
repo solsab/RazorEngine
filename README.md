@@ -181,3 +181,4 @@ See also https://github.com/Antaris/RazorEngine/issues/244 for more details.
 On the right side you can find links to advanced topics and additional [documentation](http://antaris.github.io/RazorEngine/).
 You should definitely read "About Razor" and "Template basics".
 
+## Testing Build
