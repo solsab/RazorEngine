@@ -13,3 +13,9 @@ notifications:
     url: https://webhooks.gitter.im/e/40fcaa9afb4b47ecafe7
     on_build_success: true
     on_build_failure: true
+    
+nuget:
+  account_feed: true
+  project_feed: true
+build:
+  verbosity: minimal
